@@ -1,7 +1,10 @@
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzNDU5NjIsIm5iZiI6MTcyNDM0NTY2MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDE2NTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0ZjhhZDJjZjAzODkyZTgyOWI2ZGEwN2IwMTgzZjk3ODYxZGQ1NGViMjYyNDM0ZjQxNzUyMTg4MjQyMjIyMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jdncwmVl2hZwDwt1FmwOuq9dOteB3lZ_QUOb6eNokb8"width="100%" />
 <h1 align="center">Hi 👋, I'm an AI Developer Mohammed  Bahageel</h1>
 <h3 align="center">artificial intelligence developer with passion for frontend development with HTML, CSS , JavaScript</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71204&center=true&vCenter=true&width=435&lines=++++Artificial+Intelligence+Engineer+)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Datascientist88&label=Profile%20views&color=0e75b6&style=flat" alt="Datascientist88" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Datascientist88&theme=" alt="Datascientist88" /></a> </p>
 
